@@ -1,0 +1,87 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+header{
+    /* padding:0% 15%; */
+}
+.nav-link{
+    font-size: 13px;
+    margin-left:-10px ;
+    color: black;
+   font-weight: 400;
+
+}
+.nav-link:hover{
+    color: black;
+}
+header{
+    background-image: url("img/banner1.png");
+ 
+    
+    
+}
+.banner-container{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.header-style{
+    background-color: white;
+    opacity: .7;
+    padding:15px 0px ;
+}
+#service-section{
+    padding: 7% 15%;
+}
+
+#work-section{
+    padding: 7% 15%;
+}
+
+#about-section{
+    padding: 7% 15%;
+}
+.hr-style{
+    border: 4px solid #8ec448;
+    width: 190px;
+    transform: rotate(116deg);
+}
+#skill-section{
+    padding: 7% 15%;
+}
+#team-section{
+    padding: 0% 15%;
+}
+#blog-section{
+    padding: 3% 14%;
+}
+#partner-section{
+    padding: 3% 14%;
+}
+#partner-section img{
+    width: 180px;
+    margin: 5px;
+}
+#ban-sec{
+    height: 500px;
+}
+.ban-container{
+    background-image: url("img/banner2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+}
+footer{
+    padding: 7% 14%;
+
+}
+
+
+<img src="img/icon1.png" alt="">
+<img src="img/icon1.png" alt="">
